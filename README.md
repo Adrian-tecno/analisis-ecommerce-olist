@@ -25,4 +25,4 @@ plataforma brasileña de e-commerce con presencia en todo Brasil.
 Power BI · DAX · Modelado de datos
 
 ## Vista previa
-![Dashboard](dashboard)
+![Dashboard](dashboard.png)
